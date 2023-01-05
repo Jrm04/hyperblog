@@ -1,2 +1,5 @@
 Hola, esto es un archivo de texto con que voy a usar para el curso de git y github de platzi.
 Como comenté antes de empezar con todos los cursos, voy a tirar de humilda y hacer todo como si no supiera de nada. Sin estrés y con pasos firmes hacia delante ;)
+
+
+Espero que pueda terminar todos los cursos de aqui a final del año y poder tener varias certificaciones porque me serian de ayuda para conseguir un trabajo muy bueno
